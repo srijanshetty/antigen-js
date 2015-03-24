@@ -1,0 +1,28 @@
+{
+  "name": "antigen-js",
+  "version": "1.0.0",
+  "description": "A minimal and fast clone of antigen inspired by antigen-hs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antigen-js/antigen-js.git"
+  },
+  "keywords": [
+    "antigen",
+    "zsh",
+    "plugin-manager"
+  ],
+  "author": "Srijan R Shetty <srijan.shetty+code@gmail.com> (http://srijanshetty.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antigen-js/antigen-js/issues"
+  },
+  "homepage": "https://github.com/antigen-js/antigen-js",
+  "dependencies": {
+    "commander": "^2.7.1",
+    "nodegit": "^0.3.3"
+  }
+}
